@@ -1,0 +1,79 @@
+alphabet: 0, 1
+sequence iterations: 10 000
+
+sequence length: 1
+FAIL
+chi2: 9908.211600,  ddof: 1.000000
+
+sequence length: 2
+FAIL
+chi2: 19728.911491,  ddof: 2.000000
+
+sequence length: 3
+FAIL
+chi2: 29460.394879,  ddof: 3.000000
+
+sequence length: 4
+FAIL
+chi2: 39102.952486,  ddof: 4.000000
+
+sequence length: 5
+FAIL
+chi2: 48656.875150,  ddof: 5.000000
+
+sequence length: 6
+FAIL
+chi2: 58122.453827,  ddof: 6.000000
+
+sequence length: 7
+FAIL
+chi2: 67499.979588,  ddof: 7.000000
+
+sequence length: 8
+FAIL
+chi2: 76789.743621,  ddof: 8.000000
+
+sequence length: 9
+FAIL
+chi2: 85992.037230,  ddof: 9.000000
+
+sequence length: 10
+FAIL
+chi2: 95107.151837,  ddof: 10.000000
+
+sequence length: 11
+FAIL
+chi2: 104135.378979,  ddof: 11.000000
+
+sequence length: 12
+FAIL
+chi2: 113077.010311,  ddof: 12.000000
+
+sequence length: 13
+FAIL
+chi2: 121932.337605,  ddof: 13.000000
+
+sequence length: 14
+FAIL
+chi2: 130701.652749,  ddof: 14.000000
+
+sequence length: 15
+FAIL
+chi2: 139385.247747,  ddof: 15.000000
+
+sequence length: 16
+FAIL
+chi2: 147983.414722,  ddof: 16.000000
+
+sequence length: 17
+FAIL
+chi2: 156496.445913,  ddof: 17.000000
+
+sequence length: 18
+FAIL
+chi2: 164924.633677,  ddof: 18.000000
+
+sequence length: 19
+FAIL
+chi2: 173268.270487,  ddof: 19.000000
+

@@ -1,0 +1,79 @@
+alphabet: 0, 1
+sequence iterations: 10 000
+
+sequence length: 1
+PASS
+p val: 0.149795 
+
+sequence length: 2
+PASS
+p val: 0.391911 
+
+sequence length: 3
+PASS
+p val: 0.763838 
+
+sequence length: 4
+PASS
+p val: 0.902118 
+
+sequence length: 5
+PASS
+p val: 0.894813 
+
+sequence length: 6
+PASS
+p val: 0.976732 
+
+sequence length: 7
+PASS
+p val: 0.981411 
+
+sequence length: 8
+PASS
+p val: 0.833285 
+
+sequence length: 9
+PASS
+p val: 0.348231 
+
+sequence length: 10
+PASS
+p val: 0.029355 
+
+sequence length: 11
+FAIL
+p val: 0.000002 
+
+sequence length: 12
+FAIL
+p val: 0.000000 
+
+sequence length: 13
+PASS
+p val: 0.976553 
+
+sequence length: 14
+PASS
+p val: 1.000000 
+
+sequence length: 15
+PASS
+p val: 1.000000 
+
+sequence length: 16
+PASS
+p val: 1.000000 
+
+sequence length: 17
+PASS
+p val: 1.000000 
+
+sequence length: 18
+PASS
+p val: 1.000000 
+
+sequence length: 19
+PASS
+p val: 1.000000 
+
